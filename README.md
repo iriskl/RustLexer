@@ -42,6 +42,7 @@
   构建测试用例，覆盖各类单词的情况，确保词法分析准确率。
 
 整体流程图如下：
+
 ![image](https://github.com/user-attachments/assets/9a3a20f5-993d-4510-ab74-ae7267d0d28d)
 
 
